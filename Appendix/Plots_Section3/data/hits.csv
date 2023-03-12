@@ -1,0 +1,28 @@
+Label in manuscript,SMILES,owner_info,Team,List position,Predicted Target,Exp Target
+S–1,CC(C(=O)NC(Cc1c[nH]c2ccccc12)C(O)=O)c1ccc(Cl)cc1,ace2_kyuken.csv-pos9247,kyuken,9247,Ace2,S
+S–2,CCc1cc(NC(=O)C2(CC2)c2cccc(F)c2)[nH]n1,S_deeplab.csv-pos56,deeplab,56,S,S
+S–3,COC(=O)C(Cc1c[nH]c2cc(F)ccc12)NC(=O)C(C)Oc1ccccc1,ace2_kyuken.csv-pos6848,kyuken,6848,Ace2,S
+Nsp5–1,CC(N(C)C(=O)Cn1nnc2ccccc12)c1cccc(Cl)c1,nsp5_jku.csv-POS212+nsp5_jku.csv-POS1157,jku,212 & 1157,Nsp5,Nsp5
+Nsp5–2,O=C(Nc1nc2CCN(Cc3ccccc3)Cc2s1)c1ccc2C(=O)N3CCCCCC3=Nc2c1,nsp12_covid19ddc.csv-POS46,covid19ddc,46,Nsp12,Nsp5
+Nsp5–3,Fc1ccc2c(CCNC(=O)c3cccc(Nc4ccc(cc4)C#N)c3)c[nH]c2c1,ace2_kyuken.csv-POS34,kyuken,34,Ace2,Nsp5
+Nsp5–4,O=C(Nc1nc2cc3OCCOc3cc2s1)C1CCN(CC1)S(=O)(=O)c1ccc2CCCc2c1,nsp12_virtualflow.csv-POS84+tmprss2_virtualflow.csv-POS84,virtualflow,84 & 84,"Nsp12, TMPRSS2",Nsp5
+Nsp5–5,O=C(Nc1nc2CN(Cc3ccccc3)CCc2s1)c1ccc2C(=O)N3CCCCCC3=Nc2c1,tmprss2_cermn.csv-POS92,cermn,92,TMPRSS2,Nsp5
+Nsp5–6,Cc1ccc(Nc2cccc(c2)C(=O)Nc2cc([nH]n2)C(=O)OCc2ccccc2)nn1,tmprss2_ai4science.csv-POS167+tmprss2_covalent_ai4science.csv-POS56,ai4science,56 & 167,TMPRSS2,Nsp5
+Nsp5–7,CC(C)N(Cc1ccccc1)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS104,jku,104,Nsp5,Nsp5
+Nsp5–8,CN(Cc1cccc(F)c1)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS394,jku,394,Nsp5,Nsp5
+Nsp5–9,O=C(Cn1nnc2ccccc12)N1CCCCCC1c1ccccc1,nsp5_jku.csv-POS93+nsp5_jku.csv-POS124,jku,93 & 124,Nsp5,Nsp5
+Nsp5–10,CCN(C(c1ccccc1)c1ccccc1)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS41,jku,41,Nsp5,Nsp5
+Nsp5–11,CC(C)CN(Cc1ccccc1)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS849,jku,849,Nsp5,Nsp5
+Nsp5–12,CC(N(C1CC1)C(=O)Cn1nnc2ccccc12)c1ccccc1,nsp5_jku.csv-POS30+nsp5_jku.csv-POS34,jku,34,Nsp5,Nsp5
+Nsp5–13,CC(N(C)C(=O)Cn1nnc2ccccc12)c1ccccc1,nsp5_jku.csv-POS51+nsp5_jku.csv-POS52,jku,52,Nsp5,Nsp5
+Nsp5–14,CC(NC(=O)Cn1nnc2ccccc12)c1cccc(Cl)c1,nsp5_jku.csv-POS1011+nsp5_aiwinter.csv-POS2438,"jku, aiwinter",1011 & 2438,Nsp5,Nsp5
+Nsp5–15,COc1ccc(Cl)cc1CN(C)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS4358,jku,4358,Nsp5,Nsp5
+Nsp5–16,CCN(Cc1ccccc1)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS57,jku,57,Nsp5,Nsp5
+Nsp5–17,CN(Cc1ccccc1)C(=O)Cn1nnc2ccccc12,nsp5_jku.csv-POS46,jku,46,Nsp5,Nsp5
+Nsp5–18,CC(N(C1CC1)C(=O)Cn1nnc2ccccc12)c1cccc(c1)C(F)(F)F,nsp5_jku.csv-POS264,jku,264,Nsp5,Nsp5
+Nsp5–19,CCC(N(CC)C(=O)Cn1nnc2ccccc12)c1ccccc1,nsp5_jku.csv-POS45+nsp5_jku.csv-POS48,jku,45 & 48,Nsp5,Nsp5
+Nsp3–1,COc1ccc(cc1OC)C(C)NC(=O)c1cc(N)ccc1C,nsp3_way2drug.csv-POS63+nsp3_way2drug.csv-POS64,way2drug,63 & 64,Nsp3,Nsp3
+Nsp3–2,Fc1ccc2[nH]c(CNC(=O)c3ccc(F)nc3)nc2c1,nsp3_kyuken.csv-POS515,kyuken,515,Nsp3,Nsp3 macrodomain
+Nsp3–3,Fc1ccc(cn1)C(=O)NCc1nc2ccc(Cl)cc2[nH]1,nsp3_kyuken.csv-POS1,kyuken,1,Nsp3,Nsp3 macrodomain
+Nsp12–1,O=C(CC1=NNC(=O)c2ccccc12)Nc1ccc(NS(=O)(=O)c2ccc3OCCOc3c2)cc1,nsp12_covid19ddc.csv-POS57,covid19ddc,57,Nsp12,Nsp12
+Nsp12–2,Oc1nc(no1)-c1ccc(NC(=O)C2CCCS2)cc1,nsp12_imolecule.csv-POS4952,imolecule,4952,Nsp12,Nsp12
